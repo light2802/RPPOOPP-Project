@@ -1,6 +1,10 @@
-# Django-Hospital-Management-System
-### Made with HTML , CSS , JS and Python Framework Django
+# RPPOOPP-Project
+OOP project - Software for Hospital Management System
 
-Hospital management System is a Django Application . This system keep record of patients and doctors with their appointments and prescription . A receptionist and HR section also there . Receptionist can create patient , create appointments with doctors and feed the fee . HR Manage the doctor's profile and status and patient management . HR also manage the reminders for outstanding fee on patient mail . Patient and HR both can able to see dynamically generated invoice bill .
-
-#### If you wanna see its functionalities then Just Clone the project and runserver 
+<br>Steps to run
+<br>Install python along with django library
+<br>Open terminal in the cloned directory
+<br>Run : django-admin startproject mysite
+<br>Run : python manage.py runserver
+<br>Site will start running at port 8000
+<br>Open browser and open : http://127.0.0.1:8000/
