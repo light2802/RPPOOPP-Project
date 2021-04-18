@@ -45,11 +45,12 @@ Docter Login -  Username=>Password
 				Docter1=>1
 				Docter2=>1
 Receptionist Login -  Username=>Password
-						r1=>ankit@98
+						r1=>aarya@01
 HR Login -  Username=>Password
-			hr1=>ankit@98
+			hr1=>aarya@01
 
 
+You can create new doctor/patient login from register page
 
 Functionalities
 
