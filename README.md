@@ -1,6 +1,8 @@
 # RPPOOPP-Project
 OOP project - Software for Hospital Management System
 
+# Introducing DocMed
+
 <br>Steps to run
 <br>Install python along with django library
 <br>Open terminal in the cloned directory
