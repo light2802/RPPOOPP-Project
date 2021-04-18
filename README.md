@@ -5,6 +5,7 @@ OOP project - Software for Hospital Management System
 
 <br>Steps to run
 <br>Install python along with django library
+<br>You will also have to install xhtml2pdf library in python
 <br>Open terminal in the cloned directory
 <br>Run : django-admin startproject mysite
 <br>Run : python manage.py runserver
